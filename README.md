@@ -1,4 +1,4 @@
-# Wprowadzenie do uczenia maszynowe
+# Wprowadzenie do uczenia maszynowego
 
 - Czym jest uczenie maszynowe
 - Jakie są rodzaje uczenia maszynowego
